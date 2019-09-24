@@ -25,4 +25,5 @@ label start:
     "Text"
     "пробуев добавить опіта"
     "ше опита добавить"
+    "comit test"
     return
